@@ -3,8 +3,7 @@
 Front-end for OpenWeather API
 =======
 # weather-vue-app
-
-This template should help get you started developing with Vue 3 in Vite.
+Insert your OpenWeatherMap API key into the .env file
 
 ## Recommended IDE Setup
 
