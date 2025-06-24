@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 # weather-app
 Front-end for OpenWeather API
+<img width="1415" alt="Screenshot 2025-06-24 at 7 17 24 PM" src="https://github.com/user-attachments/assets/fbbf9200-d7f6-406b-a823-7f02058ce921" />
+
+
 =======
 # weather-vue-app
 Insert your OpenWeatherMap API key into the .env file
